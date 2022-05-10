@@ -1,0 +1,11 @@
+baa	bbaabbba	NO
+baa	aaabbbba	NO
+aabb	abceaabb	NO
+aabb	abaabcea	NO
+abcd	cdabbbab	NO
+abcd	cabbbbab	NO
+abcde	bcdedbda	NO
+acc	bdedbcda	NO
+cde	cdcdcdec	NO
+cced	cdccdcce	NO
+bcd	aabccdxdxbxa	NO
